@@ -23,7 +23,7 @@
         android:layout_margin="3px"
         android:layout_marginLeft="3px"
         android:layout_marginRight="3px"
-        android:layout_marginTop="20px"
+        android:layout_marginTop="30px"
         android:padding="8sp"
         android:text="@string/login"
         android:textColor="#ffffff"
