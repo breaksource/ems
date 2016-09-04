@@ -8,8 +8,10 @@
         android:id="@+id/work_number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10sp"
-        android:text="请输入工号"
+        android:layout_margin="3px"
+        android:background="@drawable/border"
+        android:padding="8sp"
+        android:hint="@string/work_num"
         android:textSize="18sp"/>
 
     <TextView
@@ -19,6 +21,9 @@
         android:background="#000000"
         android:gravity="center|center_vertical"
         android:layout_margin="3px"
+        android:layout_marginLeft="3px"
+        android:layout_marginRight="3px"
+        android:layout_marginTop="20px"
         android:padding="8sp"
         android:text="@string/login"
         android:textColor="#ffffff"
