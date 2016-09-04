@@ -11,7 +11,7 @@
         android:layout_margin="3px"
         android:background="@drawable/border"
         android:padding="8sp"
-        android:hint="@string/work_num"
+        android:hint="@string/order"
         android:textSize="18sp"/>
 
 </RelativeLayout>
