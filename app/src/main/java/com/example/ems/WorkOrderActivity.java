@@ -3,6 +3,7 @@ package com.example.ems;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toolbar;
 
 import com.example.ems.view.BackArrow;
 
@@ -16,6 +17,7 @@ public class WorkOrderActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_workorder);
 
+       // Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         init();
     }
 
