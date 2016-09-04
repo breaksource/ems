@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">ems</string>
+    <string name="app_name">EMS App</string>
+    <string name="order">请输入工单号</string>
+    <string name="work_num">请输入工号</string>
+    <string name="login">登陆</string>
 </resources>
