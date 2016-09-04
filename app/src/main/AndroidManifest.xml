@@ -17,6 +17,8 @@
         </activity>
 
         <activity android:name=".WorkOrderActivity"></activity>
+
+        <activity android:name=".DetailActivity"></activity>
     </application>
 
 </manifest>
